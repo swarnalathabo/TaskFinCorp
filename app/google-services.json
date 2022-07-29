@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824886669870",
+    "project_id": "taskfincorp",
+    "storage_bucket": "taskfincorp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824886669870:android:2a69f0a4203cf5967b25bf",
+        "android_client_info": {
+          "package_name": "com.example.taskfincorp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824886669870-stoh9hcs0bcln7mlgvqseksk5vs18lal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcM1AYo5cWRMd5HgYPzKo4ZdTdviVMzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824886669870-stoh9hcs0bcln7mlgvqseksk5vs18lal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
